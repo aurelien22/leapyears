@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="leapyearsShould" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-07T09:23:11" hostname="MBPdeAunDINCUFF" time="0.017">
+  <properties/>
+  <testcase name="returnTrueIfYearIsDivisibleBy100ButNotBy400()" classname="leapyearsShould" time="0.013"/>
+  <testcase name="returnFalseIfYearIsNotDivisibleBy4()" classname="leapyearsShould" time="0.0"/>
+  <testcase name="returnTrueIfYearIsDivisibleBy400()" classname="leapyearsShould" time="0.0"/>
+  <testcase name="returnFalseIfYearIsNotDivisibleBy400()" classname="leapyearsShould" time="0.0"/>
+  <testcase name="returnTrueIfYearIsDivisibleBy4AndNotBy100()" classname="leapyearsShould" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
